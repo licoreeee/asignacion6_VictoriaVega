@@ -1,0 +1,32 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    background-color: #0966c0;
+    padding: 1rem;
+}
+
+body{
+    background-color: #117ad0;
+}
+
+.title{
+    margin-top: 1rem;
+}
+
+a:link{
+    color: white;
+}
+
+a:hover{
+    color: yellow;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
